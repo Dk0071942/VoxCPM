@@ -1,0 +1,113 @@
+{
+  "model_load": {
+    "phase": "model_load",
+    "gpu_util_pct": {
+      "peak": 100.0,
+      "avg": 6.8,
+      "samples": 142
+    },
+    "vram_mib": {
+      "peak": 6378.0,
+      "avg": 2834.6,
+      "samples": 142
+    },
+    "rss_mib": {
+      "peak": 10598.3,
+      "avg": 4672.3,
+      "samples": 142
+    },
+    "cpu_pct": {
+      "peak": 804.0,
+      "avg": 114.9,
+      "samples": 141
+    },
+    "seconds": 36.14
+  },
+  "warmup": {
+    "phase": "warmup",
+    "gpu_util_pct": {
+      "peak": 100.0,
+      "avg": 57.5,
+      "samples": 15
+    },
+    "vram_mib": {
+      "peak": 7532.0,
+      "avg": 7056.1,
+      "samples": 15
+    },
+    "rss_mib": {
+      "peak": 3441.9,
+      "avg": 3326.7,
+      "samples": 15
+    },
+    "cpu_pct": {
+      "peak": 649.9,
+      "avg": 140.8,
+      "samples": 14
+    },
+    "seconds": 3.64
+  },
+  "batch": {
+    "phase": "batch",
+    "gpu_util_pct": {
+      "peak": 100.0,
+      "avg": 99.2,
+      "samples": 945
+    },
+    "vram_mib": {
+      "peak": 9274.0,
+      "avg": 8645.3,
+      "samples": 945
+    },
+    "rss_mib": {
+      "peak": 3285.5,
+      "avg": 3285.3,
+      "samples": 945
+    },
+    "cpu_pct": {
+      "peak": 135.0,
+      "avg": 100.9,
+      "samples": 944
+    },
+    "seconds": 239.14,
+    "per_item": [
+      {
+        "code": "en",
+        "duration_s": 28.8,
+        "gen_s": 38.76,
+        "rtf": 1.346
+      },
+      {
+        "code": "zh",
+        "duration_s": 30.24,
+        "gen_s": 40.74,
+        "rtf": 1.347
+      },
+      {
+        "code": "ar",
+        "duration_s": 30.08,
+        "gen_s": 40.61,
+        "rtf": 1.35
+      },
+      {
+        "code": "ja",
+        "duration_s": 33.44,
+        "gen_s": 45.01,
+        "rtf": 1.346
+      },
+      {
+        "code": "hi",
+        "duration_s": 27.68,
+        "gen_s": 37.4,
+        "rtf": 1.351
+      },
+      {
+        "code": "ru",
+        "duration_s": 27.2,
+        "gen_s": 36.62,
+        "rtf": 1.346
+      }
+    ],
+    "mean_rtf": 1.348
+  }
+}

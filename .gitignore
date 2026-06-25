@@ -5,3 +5,15 @@ voxcpm.egg-info
 .DS_Store
 ./pretrained_models/
 app_local.py
+
+# venvs and caches
+*.egg-info/
+.pytest_cache/
+
+# eval_multilingual: ignore large generated artifacts; track source scripts,
+# README, test_set, and small JSON summaries.
+eval_multilingual/outputs_voxcpm/
+eval_multilingual/outputs_nanovllm/
+eval_multilingual/outputs_short_baseline/
+eval_multilingual/index.html
+eval_multilingual/*.log

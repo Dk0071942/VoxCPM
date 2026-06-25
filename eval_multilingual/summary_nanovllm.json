@@ -1,0 +1,302 @@
+[
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "text": "مرحبًا، هذا صوت مُولَّد بالذكاء الاصطناعي. يمكن لهذا الصوت التحدث بلغاتٍ متعددة مع الحفاظ على نبرةٍ متناسقة. اليوم سأخبرك قصةً قصيرة عن مغامراتٍ في مدينةٍ بعيدة. كان الجو معتدلًا، والشمس مشرقة، والأطفال يلعبون في الحديقة بكل سرور. اشتريتُ كوبًا من القهوة، وجلستُ تحت شجرةٍ كبيرة، أراقب المارة وأكتب بعض الأفكار في دفتري الصغير. كم هو ممتعٌ أن نسمع نفس الصوت يتحدث بلغاتٍ متعددة!",
+    "file": "ar_arabic.wav",
+    "duration_s": 30.08,
+    "gen_time_s": 9.79,
+    "rtf": 0.33,
+    "status": "ok"
+  },
+  {
+    "code": "my",
+    "name": "Burmese",
+    "text": "မင်္ဂလာပါ။ ဤအသံသည် AI ဖြင့် ဖန်တီးထားသော အသံဖြစ်ပါတယ်။ ဒီအသံဟာ ဘာသာစကားများစွာဖြင့် တသမတ်တည်းသော အသံအရောင်ကို ထိန်းသိမ်းနိုင်ပါတယ်။ ဒီနေ့မှာ ကျွန်တော် သတင်းအချို့ကို ပြောပြပါမယ်။ ဒီနေ့ ရာသီဥတုသည် နွေးထွေးပြီး နေသာသာရှိပါတယ်။ ကလေးငယ်များဟာ ဥယျာဉ်ထဲမှာ ပျော်ပျော်ရွှင်ရွှင် ကစားနေကြပါတယ်။ ကျွန်တော် ကော်ဖီတစ်ခွက်ဝယ်ပြီး အပင်ကြီးတစ်ပင်အောက်မှာ ထိုင်ကာ စာအုပ်ငယ်ထဲမှာ အတွေးအချို့ကို ရေးချလိုက်ပါတယ်။ ဘာသာစကားများစွာဖြင့် တစ်ခုတည်းသောအသံ ပြောဆိုနိုင်တာက အလွန်စိတ်ဝင်စားစရာကောင်းပါတယ်။. ဒီအသံဟာ ဘာသာစကားများစွာဖြင့် တသမတ်တည်းသော အသံအရောင်ကို ထိန်းသိမ်းနိုင်ပါတယ်။ ဒီနေ့မှာ ကျွန်တော် သတင်းအချို့ကို ပြောပြပါမယ်။ ဒီနေ့ ရာသီဥတုသည် နွေးထွေးပြီး နေသာသာရှိပါတယ်။ ကလေးငယ်များဟာ ဥယျာဉ်ထဲမှာ ပျော်ပျော်ရွှင်ရွှင် ကစားနေကြပါတယ်။ ကျွန်တော် ကော်ဖီတစ်ခွက်ဝယ်ပြီး အပင်ကြီးတစ်ပင်အောက်မှာ ထိုင်ကာ စာအုပ်ငယ်ထဲမှာ အတွေးအချို့ကို ရေးချလိုက်ပါတယ်။ ဘာသာစကားများစွာဖြင့် တစ်ခုတည်းသောအသံ ပြောဆိုနိုင်တာက အလွန်စိတ်ဝင်စားစရာကောင်းပါတယ်။",
+    "file": "my_burmese.wav",
+    "duration_s": 26.24,
+    "gen_time_s": 8.05,
+    "rtf": 0.31,
+    "status": "ok"
+  },
+  {
+    "code": "zh",
+    "name": "Chinese",
+    "text": "你好,这是 AI 生成的声音。这个声音可以用多种语言保持一致的音色。今天我想给你讲一个简短的故事。今天的天气很温暖,阳光明媚,孩子们在公园里开心地玩耍。我买了一杯咖啡,坐在一棵大树下,一边看着行人,一边在小本子上写下一些想法。能用这么多种语言听到同样的声音,真是一件非常有趣的事情。",
+    "file": "zh_chinese.wav",
+    "duration_s": 29.12,
+    "gen_time_s": 8.75,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "da",
+    "name": "Danish",
+    "text": "Hej, dette er en AI-genereret stemme. Stemmen kan tale flere sprog og bevare en ensartet klang. I dag vil jeg fortælle dig en kort historie. Vejret er dejligt og solrigt, og børnene leger glade i parken. Jeg købte en kop kaffe, satte mig under et stort træ og skrev nogle tanker ned i min lille notesbog mens jeg betragtede de forbipasserende. Det er virkelig fascinerende at høre den samme stemme tale så mange forskellige sprog.",
+    "file": "da_danish.wav",
+    "duration_s": 26.24,
+    "gen_time_s": 7.9,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "text": "Hallo, dit is een AI-gegenereerde stem. Deze stem kan meerdere talen spreken en een consistente klank behouden. Vandaag wil ik je een kort verhaal vertellen. Het weer is warm en zonnig, en de kinderen spelen vrolijk in het park. Ik kocht een kopje koffie, ging onder een grote boom zitten en schreef wat gedachten op in mijn kleine notitieboekje terwijl ik naar de voorbijgangers keek. Het is echt fascinerend om dezelfde stem in zoveel verschillende talen te horen spreken.",
+    "file": "nl_dutch.wav",
+    "duration_s": 28.16,
+    "gen_time_s": 8.48,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "text": "Hello, this is an AI-generated voice. This voice can speak multiple languages while keeping a consistent timbre. Today I want to tell you a short story. The weather is warm and sunny, and the children are playing happily in the park. I bought a cup of coffee, sat under a large tree, and wrote down some thoughts in my little notebook while watching the passers-by. It really is fascinating to hear the same voice speak so many different languages.",
+    "file": "en_english.wav",
+    "duration_s": 26.72,
+    "gen_time_s": 8.03,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "fi",
+    "name": "Finnish",
+    "text": "Hei, tämä on tekoälyllä luotu ääni. Tämä ääni voi puhua useita kieliä ja säilyttää yhtenäisen äänensävyn. Tänään haluan kertoa sinulle lyhyen tarinan. Sää on lämmin ja aurinkoinen, ja lapset leikkivät iloisesti puistossa. Ostin kupillisen kahvia, istuin suuren puun alle ja kirjoitin pieneen muistikirjaani muutamia ajatuksia samalla kun katselin ohikulkijoita. On todella kiehtovaa kuulla saman äänen puhuvan niin monella eri kielellä.",
+    "file": "fi_finnish.wav",
+    "duration_s": 29.92,
+    "gen_time_s": 8.97,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "text": "Bonjour, ceci est une voix générée par IA. Cette voix peut parler plusieurs langues tout en gardant un timbre cohérent. Aujourd'hui, je vais vous raconter une courte histoire. Le temps est doux et ensoleillé, et les enfants jouent joyeusement dans le parc. J'ai acheté un café, je me suis assis sous un grand arbre et j'ai noté quelques pensées dans mon petit carnet en regardant les passants. Il est vraiment fascinant d'entendre la même voix parler autant de langues différentes.",
+    "file": "fr_french.wav",
+    "duration_s": 28.96,
+    "gen_time_s": 8.7,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "text": "Hallo, dies ist eine KI-generierte Stimme. Diese Stimme kann mehrere Sprachen sprechen und dabei eine gleichbleibende Klangfarbe bewahren. Heute möchte ich dir eine kurze Geschichte erzählen. Das Wetter ist warm und sonnig, und die Kinder spielen fröhlich im Park. Ich kaufte eine Tasse Kaffee, setzte mich unter einen großen Baum und schrieb in mein kleines Notizbuch einige Gedanken auf, während ich die Vorbeigehenden beobachtete. Es ist wirklich faszinierend, dieselbe Stimme in so vielen verschiedenen Sprachen sprechen zu hören.",
+    "file": "de_german.wav",
+    "duration_s": 29.12,
+    "gen_time_s": 8.74,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "el",
+    "name": "Greek",
+    "text": "Γεια σας, αυτή είναι μια φωνή που δημιουργήθηκε με τεχνητή νοημοσύνη. Αυτή η φωνή μπορεί να μιλήσει πολλές γλώσσες διατηρώντας σταθερή χροιά. Σήμερα θέλω να σας πω μια σύντομη ιστορία. Ο καιρός είναι ζεστός και ηλιόλουστος, και τα παιδιά παίζουν χαρούμενα στο πάρκο. Αγόρασα έναν καφέ, κάθισα κάτω από ένα μεγάλο δέντρο και έγραψα μερικές σκέψεις στο μικρό μου σημειωματάριο ενώ παρακολουθούσα τους περαστικούς. Είναι πραγματικά συναρπαστικό να ακούς την ίδια φωνή να μιλά τόσες πολλές διαφορετικές γλώσσες.",
+    "file": "el_greek.wav",
+    "duration_s": 28.96,
+    "gen_time_s": 8.7,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "he",
+    "name": "Hebrew",
+    "text": "שלום, זהו קול שנוצר באמצעות בינה מלאכותית. הקול הזה יכול לדבר בכמה שפות תוך שמירה על גוון עקבי. היום אני רוצה לספר לכם סיפור קצר. מזג האוויר חם ושטוף שמש, והילדים משחקים בשמחה בפארק. קניתי כוס קפה, התיישבתי תחת עץ גדול ורשמתי כמה מחשבות במחברת הקטנה שלי בזמן שצפיתי בעוברים ושבים. זה באמת מרתק לשמוע את אותו הקול מדבר בכל כך הרבה שפות שונות.",
+    "file": "he_hebrew.wav",
+    "duration_s": 25.6,
+    "gen_time_s": 7.71,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "text": "नमस्ते, यह एआई द्वारा बनाई गई आवाज़ है। यह आवाज़ कई भाषाओं में बोल सकती है और एक समान स्वर बनाए रखती है। आज मैं आपको एक छोटी सी कहानी सुनाना चाहता हूँ। मौसम गर्म और धूप वाला है, और बच्चे पार्क में खुशी से खेल रहे हैं। मैंने एक कप कॉफ़ी खरीदी, एक बड़े पेड़ के नीचे बैठा, और राहगीरों को देखते हुए अपनी छोटी डायरी में कुछ विचार लिख डाले। यह सचमुच रोमांचक है कि एक ही आवाज़ इतनी सारी भाषाओं में बोल सकती है।",
+    "file": "hi_hindi.wav",
+    "duration_s": 28.96,
+    "gen_time_s": 8.72,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "id",
+    "name": "Indonesian",
+    "text": "Halo, ini adalah suara yang dihasilkan oleh AI. Suara ini dapat berbicara dalam banyak bahasa sambil mempertahankan timbre yang konsisten. Hari ini saya ingin menceritakan sebuah kisah singkat. Cuaca hangat dan cerah, dan anak-anak bermain dengan riang di taman. Saya membeli secangkir kopi, duduk di bawah pohon besar, dan menuliskan beberapa pikiran ke dalam buku catatan kecil saya sambil mengamati orang-orang yang lewat. Sungguh menarik mendengar suara yang sama berbicara dalam begitu banyak bahasa yang berbeda.",
+    "file": "id_indonesian.wav",
+    "duration_s": 32.8,
+    "gen_time_s": 9.81,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "text": "Ciao, questa è una voce generata dall'intelligenza artificiale. Questa voce può parlare più lingue mantenendo un timbro coerente. Oggi voglio raccontarvi una breve storia. Il tempo è caldo e soleggiato, e i bambini giocano allegramente nel parco. Ho comprato una tazza di caffè, mi sono seduto sotto un grande albero e ho scritto alcuni pensieri nel mio piccolo taccuino mentre osservavo i passanti. È davvero affascinante sentire la stessa voce parlare così tante lingue diverse.",
+    "file": "it_italian.wav",
+    "duration_s": 26.56,
+    "gen_time_s": 7.98,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "text": "こんにちは。これはAIで生成された声です。この声は、一貫した声色を保ちながら複数の言語を話すことができます。今日は短い物語をお話しします。今日は暖かくて晴れた天気で、子供たちは公園で楽しそうに遊んでいます。私はコーヒーを買い、大きな木の下に座り、通行人を眺めながら小さなノートにいくつかの考えを書き留めました。同じ声がこんなにも多くの異なる言語を話すのを聞くのは、本当に興味深いことです。",
+    "file": "ja_japanese.wav",
+    "duration_s": 33.6,
+    "gen_time_s": 10.05,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "km",
+    "name": "Khmer",
+    "text": "សួស្ដី នេះគឺជាសំឡេងដែលបង្កើតដោយ AI។ សំឡេងនេះអាចនិយាយបានច្រើនភាសា ហើយរក្សាទឹកដមសំឡេងឱ្យស្របគ្នា។ ថ្ងៃនេះខ្ញុំចង់និយាយរឿងខ្លីមួយ។ អាកាសធាតុក្ដៅល្មម ហើយមានពន្លឺថ្ងៃ ហើយក្មេងៗកំពុងលេងដោយរីករាយនៅឧទ្យាន។ ខ្ញុំទិញកាហ្វេមួយកែវ អង្គុយក្រោមដើមឈើធំ ហើយសរសេរគំនិតមួយចំនួននៅក្នុងសៀវភៅតូចរបស់ខ្ញុំ ខណៈពេលដែលខ្ញុំសម្លឹងមើលអ្នកដែលដើរកាត់។ ការស្ដាប់សម្លេងតែមួយដែលនិយាយភាសាច្រើនយ៉ាងពិតជាគួរឱ្យចាប់អារម្មណ៍ខ្លាំងណាស់។",
+    "file": "km_khmer.wav",
+    "duration_s": 29.6,
+    "gen_time_s": 9.05,
+    "rtf": 0.31,
+    "status": "ok"
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "text": "안녕하세요, 이 음성은 AI로 생성된 목소리입니다. 이 목소리는 일관된 음색을 유지하면서 여러 언어를 말할 수 있습니다. 오늘은 짧은 이야기를 들려드리고 싶습니다. 오늘은 따뜻하고 화창한 날씨이며, 아이들은 공원에서 즐겁게 놀고 있습니다. 나는 커피 한 잔을 사서 커다란 나무 아래에 앉아 지나가는 사람들을 바라보며 작은 수첩에 몇 가지 생각을 적어 두었습니다. 같은 목소리가 이렇게 많은 다른 언어로 말하는 것을 듣는 것은 정말 흥미롭습니다.",
+    "file": "ko_korean.wav",
+    "duration_s": 31.68,
+    "gen_time_s": 9.5,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "lo",
+    "name": "Lao",
+    "text": "ສະບາຍດີ, ນີ້ແມ່ນສຽງທີ່ສ້າງໂດຍ AI. ສຽງນີ້ສາມາດເວົ້າໄດ້ຫຼາຍພາສາ ແລະຮັກສານ້ຳສຽງໃຫ້ສະໝ່ຳສະເໝີ. ມື້ນີ້ ຂ້ອຍຢາກບອກເລື່ອງສັ້ນໆ. ອາກາດອົບອຸ່ນ ແລະມີແສງແດດ, ແລະພວກເດັກນ້ອຍກຳລັງຫຼິ້ນຢ່າງມ່ວນຊື່ນຢູ່ສວນສາທາລະນະ. ຂ້ອຍຊື້ກາເຟໜຶ່ງຈອກ, ນັ່ງລົງໃຕ້ຕົ້ນໄມ້ໃຫຍ່ ແລະຂຽນຄວາມຄິດບາງຢ່າງລົງໃນປຶ້ມບັນທຶກນ້ອຍຂອງຂ້ອຍ ໃນຂະນະທີ່ສັງເກດເຫັນຄົນຍ່າງຜ່ານ. ມັນເປັນເລື່ອງໜ້າສົນໃຈແທ້ໆທີ່ໄດ້ຍິນສຽງດຽວກັນເວົ້າພາສາທີ່ແຕກຕ່າງກັນຫຼາຍຄືກັນນັ້ນ.",
+    "file": "lo_lao.wav",
+    "duration_s": 26.56,
+    "gen_time_s": 8.13,
+    "rtf": 0.31,
+    "status": "ok"
+  },
+  {
+    "code": "ms",
+    "name": "Malay",
+    "text": "Helo, ini ialah suara yang dijana oleh AI. Suara ini boleh bertutur dalam pelbagai bahasa sambil mengekalkan tona yang konsisten. Hari ini saya ingin menceritakan sebuah kisah pendek. Cuaca hangat dan cerah, dan kanak-kanak bermain dengan gembira di taman. Saya membeli secawan kopi, duduk di bawah sebatang pokok besar, dan menulis beberapa fikiran ke dalam buku nota kecil saya sambil memerhati orang yang lalu-lalang. Sungguh menarik mendengar suara yang sama bertutur dalam begitu banyak bahasa yang berlainan.",
+    "file": "ms_malay.wav",
+    "duration_s": 32.0,
+    "gen_time_s": 9.58,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "no",
+    "name": "Norwegian",
+    "text": "Hei, dette er en AI-generert stemme. Denne stemmen kan snakke flere språk og bevare en jevn klang. I dag vil jeg fortelle deg en kort historie. Været er varmt og solrikt, og barna leker glade i parken. Jeg kjøpte en kopp kaffe, satte meg under et stort tre, og skrev ned noen tanker i den lille notatboken min mens jeg så på folk som gikk forbi. Det er virkelig fascinerende å høre den samme stemmen snakke så mange forskjellige språk.",
+    "file": "no_norwegian.wav",
+    "duration_s": 24.64,
+    "gen_time_s": 7.4,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "text": "Cześć, to jest głos wygenerowany przez AI. Ten głos może mówić w wielu językach, zachowując spójną barwę. Dzisiaj chcę opowiedzieć krótką historię. Pogoda jest ciepła i słoneczna, a dzieci wesoło bawią się w parku. Kupiłem filiżankę kawy, usiadłem pod dużym drzewem i zapisałem kilka myśli w moim małym notatniku, obserwując przechodniów. Naprawdę fascynujące jest słyszeć ten sam głos mówiący w tak wielu różnych językach.",
+    "file": "pl_polish.wav",
+    "duration_s": 28.32,
+    "gen_time_s": 8.49,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "text": "Olá, esta é uma voz gerada por IA. Esta voz pode falar vários idiomas mantendo um timbre consistente. Hoje quero contar uma pequena história. O tempo está quente e ensolarado, e as crianças brincam alegremente no parque. Comprei uma xícara de café, sentei-me debaixo de uma grande árvore e anotei algumas reflexões no meu pequeno caderno enquanto observava os transeuntes. É realmente fascinante ouvir a mesma voz falar tantos idiomas diferentes.",
+    "file": "pt_portuguese.wav",
+    "duration_s": 28.96,
+    "gen_time_s": 8.68,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "text": "Привет, это голос, созданный искусственным интеллектом. Этот голос может говорить на нескольких языках, сохраняя узнаваемый тембр. Сегодня я хочу рассказать тебе короткую историю. Погода тёплая и солнечная, дети весело играют в парке. Я купил чашку кофе, сел под большим деревом и записал несколько мыслей в свой маленький блокнот, наблюдая за прохожими. Действительно удивительно слышать, как один и тот же голос говорит на стольких разных языках.",
+    "file": "ru_russian.wav",
+    "duration_s": 27.84,
+    "gen_time_s": 8.35,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "text": "Hola, esta es una voz generada por IA. Esta voz puede hablar varios idiomas manteniendo un timbre consistente. Hoy quiero contarte una pequeña historia. El clima está cálido y soleado, y los niños juegan alegremente en el parque. Compré una taza de café, me senté bajo un gran árbol y anoté algunas reflexiones en mi pequeño cuaderno mientras observaba a los transeúntes. Es realmente fascinante escuchar la misma voz hablar en tantos idiomas distintos.",
+    "file": "es_spanish.wav",
+    "duration_s": 29.76,
+    "gen_time_s": 8.9,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "sw",
+    "name": "Swahili",
+    "text": "Habari, hii ni sauti iliyotengenezwa na AI. Sauti hii inaweza kuzungumza lugha nyingi huku ikidumisha toni thabiti. Leo ninataka kukuambia hadithi fupi. Hali ya hewa ni ya joto na yenye jua, na watoto wanacheza kwa furaha kwenye bustani. Nilinunua kikombe cha kahawa, nikaketi chini ya mti mkubwa, na kuandika mawazo machache katika daftari yangu ndogo huku nikiwatazama wapita njia. Ni jambo la kuvutia sana kusikia sauti ile ile ikizungumza lugha nyingi tofauti.",
+    "file": "sw_swahili.wav",
+    "duration_s": 29.6,
+    "gen_time_s": 8.88,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "text": "Hej, detta är en AI-genererad röst. Den här rösten kan tala flera språk och behålla en konsekvent klang. Idag vill jag berätta en kort historia. Vädret är varmt och soligt, och barnen leker glatt i parken. Jag köpte en kopp kaffe, satte mig under ett stort träd och skrev ner några tankar i min lilla anteckningsbok medan jag tittade på förbipasserande. Det är verkligen fascinerande att höra samma röst tala så många olika språk.",
+    "file": "sv_swedish.wav",
+    "duration_s": 26.72,
+    "gen_time_s": 8.02,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "tl",
+    "name": "Tagalog",
+    "text": "Kumusta, ito ay boses na nilikha ng AI. Ang boses na ito ay maaaring magsalita ng maraming wika habang pinapanatili ang pare-parehong timbre. Ngayon, nais kong magsabi ng isang maikling kuwento. Mainit ang panahon at maaraw, at masayang naglalaro ang mga bata sa parke. Bumili ako ng isang tasa ng kape, naupo sa ilalim ng isang malaking puno, at nagsulat ng ilang kaisipan sa aking maliit na talaarawan habang minamasdan ang mga taong nagdaraan. Talagang nakakamangha na marinig ang iisang boses na nagsasalita sa napakaraming magkakaibang wika.",
+    "file": "tl_tagalog.wav",
+    "duration_s": 35.52,
+    "gen_time_s": 10.61,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "th",
+    "name": "Thai",
+    "text": "สวัสดี นี่คือเสียงที่สร้างขึ้นโดย AI เสียงนี้สามารถพูดได้หลายภาษาโดยยังคงโทนเสียงที่สม่ำเสมอ วันนี้ฉันอยากเล่าเรื่องสั้นๆ ให้ฟัง อากาศวันนี้อบอุ่นและมีแดด เด็กๆ กำลังเล่นกันอย่างสนุกสนานในสวนสาธารณะ ฉันซื้อกาแฟหนึ่งแก้ว นั่งอยู่ใต้ต้นไม้ใหญ่ และจดความคิดบางอย่างลงในสมุดบันทึกเล่มเล็กในขณะที่มองดูผู้คนที่เดินผ่านไปมา การได้ยินเสียงเดียวกันพูดในหลายภาษาเช่นนี้น่าทึ่งจริงๆ",
+    "file": "th_thai.wav",
+    "duration_s": 28.0,
+    "gen_time_s": 8.47,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "text": "Merhaba, bu yapay zeka tarafından oluşturulmuş bir sestir. Bu ses, tutarlı bir tınıyı koruyarak birden fazla dili konuşabilir. Bugün size kısa bir hikâye anlatmak istiyorum. Hava sıcak ve güneşli, çocuklar parkta neşeyle oynuyor. Bir fincan kahve aldım, büyük bir ağacın altına oturdum ve gelip geçenleri izlerken küçük defterime bazı düşünceler yazdım. Aynı sesin bu kadar çok farklı dilde konuşmasını duymak gerçekten büyüleyici.",
+    "file": "tr_turkish.wav",
+    "duration_s": 25.44,
+    "gen_time_s": 7.65,
+    "rtf": 0.3,
+    "status": "ok"
+  },
+  {
+    "code": "vi",
+    "name": "Vietnamese",
+    "text": "Xin chào, đây là giọng nói được tạo bởi AI. Giọng nói này có thể nói nhiều ngôn ngữ mà vẫn giữ âm sắc nhất quán. Hôm nay tôi muốn kể cho bạn nghe một câu chuyện ngắn. Thời tiết ấm áp và đầy nắng, và lũ trẻ đang vui chơi trong công viên. Tôi đã mua một cốc cà phê, ngồi dưới một gốc cây lớn và viết vài suy nghĩ vào cuốn sổ nhỏ của mình trong khi quan sát những người qua đường. Thật thú vị khi nghe cùng một giọng nói trò chuyện bằng nhiều ngôn ngữ khác nhau như vậy.",
+    "file": "vi_vietnamese.wav",
+    "duration_s": 27.36,
+    "gen_time_s": 8.22,
+    "rtf": 0.3,
+    "status": "ok"
+  }
+]
